@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
-import Botao from '../components/BotaoProps'; // Importa o botão
+import Botao from '../components/BotaoProps'; // Importa o botãoooo
 
 export default function Index() {
   const [expressao, setExpressao] = useState<string>('');
